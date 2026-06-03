@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Scholar's AIM | Ava Marie Scholars Initiative</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="hero">
+  <nav>
+    <div class="logo">Scholar's AIM</div>
+    <div class="nav-links">
+      <a href="#about">About</a>
+      <a href="#program">Program</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </nav>
+
+  <div class="hero-content">
+    <p class="tagline">Lead. Learn. Achieve.</p>
+    <h1>Helping students aim higher and level up in life.</h1>
+    <p>
+      Ava Marie Scholars Initiative supports students through academic growth,
+      attendance, character development, leadership, and life readiness.
+    </p>
+    <a href="#program" class="button">Explore the Program</a>
+  </div>
+</header>
+
+<section id="about" class="section">
+  <h2>About Ava Marie Scholars Initiative</h2>
+  <p>
+    Ava Marie Scholars Initiative was created to encourage students to grow,
+    improve, and prepare for success beyond the classroom. Our mission is to
+    recognize effort, reward progress, and help students build confidence.
+  </p>
+</section>
+
+<section id="program" class="section light">
+  <h2>Scholar's AIM Level Up Program</h2>
+  <p>
+    The Scholar's AIM Level Up Program is a student achievement program that
+    rewards growth in academics, attendance, behavior, leadership, and personal
+    responsibility.
+  </p>
+
+  <div class="cards">
+    <div class="card">
+      <h3>Academic Growth</h3>
+      <p>Students are recognized for improvement, effort, and achievement.</p>
+    </div>
+    <div class="card">
+      <h3>Attendance</h3>
+      <p>Consistent attendance helps students stay focused and prepared.</p>
+    </div>
+    <div class="card">
+      <h3>Character</h3>
+      <p>We encourage responsibility, respect, leadership, and perseverance.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <h2>Supporting Students, Parents, and Teachers</h2>
+  <p>
+    Scholar's AIM works best when students, families, and educators work together.
+    Our goal is to create a positive system that celebrates student progress.
+  </p>
+</section>
+
+<section id="contact" class="section contact">
+  <h2>Get Involved</h2>
+  <p>
+    Interested in learning more about Ava Marie Scholars Initiative or the
+    Scholar's AIM Level Up Program?
+  </p>
+  <p><strong>Email:</strong> info@scholarsaim.org</p>
+</section>
+
+<footer>
+  <p>© 2026 Ava Marie Scholars Initiative. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
